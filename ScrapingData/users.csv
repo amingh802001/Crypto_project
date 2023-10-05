@@ -1,0 +1,149 @@
+,git_url,id,username,name,followers,following,created_at,updated_at
+0,https://github.com/bitcoin/bitcoin,528860,bitcoin,Bitcoin,2939,0,2010-12-18T21:50:48Z,2023-09-05T11:17:48Z
+1,https://github.com/ethereum/go-ethereum,6250754,ethereum,,7617,0,2013-12-24T00:26:58Z,2023-05-30T16:52:04Z
+2,https://github.com/bnb-chain,45615063,bnb-chain,,2058,0,2018-12-05T03:08:49Z,2023-07-25T13:46:02Z
+3,https://github.com/ripple/rippled,3165523,ripple,Ripple,187,0,2013-01-01T22:55:59Z,2023-08-16T00:02:35Z
+4,https://github.com/centrehq/centre-tokens,32365562,centrehq,CENTRE,143,0,2017-09-28T14:41:31Z,2023-08-22T15:51:25Z
+5,https://github.com/dogecoin/dogecoin,6122353,dogecoin,Dogecoin,312,0,2013-12-06T11:36:59Z,2022-12-24T14:53:16Z
+6,https://github.com/solana-labs,35608259,solana-labs,Solana Labs,2274,0,2018-01-19T17:31:11Z,2023-06-13T13:21:03Z
+7,https://github.com/tronprotocol/java-tron,34857411,tronprotocol,,888,0,2017-12-26T10:19:36Z,2023-08-12T11:38:11Z
+8,https://github.com/paritytech/polkadot,14176906,paritytech,Parity Technologies,1316,0,2015-09-08T09:13:54Z,2023-08-25T07:13:03Z
+9,https://github.com/maticnetwork/contracts,30753617,maticnetwork,Polygon (previously Matic),1711,0,2017-08-05T15:25:50Z,2023-03-24T17:24:17Z
+10,https://github.com/ton-blockchain,55018343,ton-blockchain,TON - The Open Network,1235,0,2019-09-07T09:32:46Z,2023-05-19T07:14:43Z
+11,https://github.com/litecoin-project/litecoin,1845120,litecoin-project,Litecoin Project,140,0,2012-06-13T04:10:04Z,2019-07-22T14:22:37Z
+12,https://github.com/WrappedBTC/bitcoin-token-smart-contracts,44804077,WrappedBTC,,15,0,2018-11-06T11:06:41Z,2018-11-06T11:06:41Z
+13,https://github.com/ava-labs/avalanchego,44277073,ava-labs,Ava Labs,584,0,2018-10-18T21:27:48Z,2023-08-09T18:11:18Z
+14,https://github.com/stellar/stellar-core,7386716,stellar,Stellar,366,0,2014-04-23T16:49:02Z,2023-08-08T19:58:29Z
+15,https://github.com/smartcontractkit/chainlink,25111032,smartcontractkit,SmartContract,2383,0,2017-01-13T22:15:46Z,2023-08-08T18:07:33Z
+16,https://github.com/paxosglobal/busd-contract,22945721,paxosglobal,Paxos,76,0,2016-10-19T21:28:20Z,2023-03-10T17:35:12Z
+17,https://github.com/trusttoken/smart-contracts,31143462,trusttoken,TrustToken,33,0,2017-08-18T20:47:03Z,2023-09-04T10:53:21Z
+18,https://github.com/monero-project/monero,7450663,monero-project,The Monero Project,533,0,2014-04-30T14:37:48Z,2020-05-20T18:08:48Z
+19,https://github.com/cosmos,228843,cosmos,COSMOS,1150,0,2010-03-23T17:04:16Z,2023-07-03T09:14:30Z
+20,https://github.com/ethereumclassic/ethereumclassic.github.io,20468622,ethereumclassic,Ethereum Classic,97,0,2016-07-15T02:11:49Z,2023-08-19T11:28:05Z
+21,https://github.com/hashgraph,31002956,hashgraph,Hedera,353,0,2017-08-14T09:52:00Z,2023-09-06T12:03:03Z
+22,https://github.com/dfinity/ic,59101585,dfinity,DFINITY,836,0,2019-12-20T22:04:50Z,2023-04-27T13:08:36Z
+23,https://github.com/filecoin-project/,22014611,filecoin-project,Filecoin,1123,0,2016-09-05T22:02:08Z,2023-08-28T17:54:14Z
+24,https://github.com/mantlenetworkio,110459454,mantlenetworkio,Mantle,465,0,2022-08-02T09:25:42Z,2023-08-15T10:14:23Z
+25,https://github.com/lidofinance,68384064,lidofinance,Lido,357,0,2020-07-16T13:14:05Z,2023-09-08T07:56:55Z
+26,https://github.com/crypto-org-chain/chain-main,78834054,crypto-org-chain,Crypto.org,112,0,2021-02-10T02:23:15Z,2023-03-30T00:52:29Z
+27,https://github.com/quantnetwork/,31103999,quantnetwork,Quant Network,66,0,2017-08-17T14:39:17Z,2023-03-15T07:06:53Z
+28,https://github.com/vechain,33248556,vechain,vechain,182,0,2017-10-31T07:56:19Z,2023-06-19T10:06:32Z
+29,https://github.com/nearprotocol/nearcore,42587064,nearprotocol,nearprotocol [DEPRECATED] --> Moved to: https://github.com/near,49,0,2018-08-21T19:01:54Z,2022-06-20T18:22:00Z
+30,https://github.com/ethereum-optimism/,58791460,ethereum-optimism,Optimism,1615,0,2019-12-11T21:07:36Z,2023-09-07T20:52:32Z
+31,https://github.com/makerdao,12523025,makerdao,Maker,500,0,2015-05-20T04:06:59Z,2023-08-09T07:14:49Z
+32,https://github.com/aave,47617460,aave,Aave,1120,0,2019-02-14T01:44:45Z,2023-03-29T17:53:21Z
+33,https://github.com/graphprotocol,38020273,graphprotocol,The Graph,551,0,2018-04-02T23:07:28Z,2023-03-04T15:02:32Z
+34,https://github.com/algorand/go-algorand,23182699,algorand,Algorand,419,0,2016-11-01T03:54:59Z,2023-08-29T07:10:52Z
+35,https://github.com/xinfinorg,29036031,XinFinOrg,XDC.Network,83,0,2017-05-29T08:49:51Z,2023-03-30T11:06:14Z
+36,https://github.com/stacks-network,8165984,stacks-network,Stacks,255,0,2014-07-15T06:20:01Z,2023-06-02T14:16:39Z
+37,https://github.com/multiversx,114073177,multiversx,MultiversX,231,0,2022-09-21T11:12:55Z,2023-08-31T09:08:57Z
+38,https://github.com/AntelopeIO/leap,106774796,AntelopeIO,Antelope,133,0,2022-06-02T19:43:09Z,2023-05-16T21:02:34Z
+39,https://github.com/thetatoken,32890952,thetatoken,Theta Labs,191,0,2017-10-18T04:20:44Z,2022-02-15T18:45:34Z
+40,https://github.com/InjectiveLabs,44571224,InjectiveLabs,Injective Protocol,293,0,2018-10-29T10:36:48Z,2023-07-28T17:29:10Z
+41,https://github.com/Fantom-Foundation,39045722,Fantom-foundation,Fantom,295,0,2018-05-07T06:51:20Z,2023-04-05T01:53:17Z
+42,https://github.com/bitcoin-sv/bitcoin-sv,42189007,bitcoin-sv,Bitcoin SV,78,0,2018-08-07T20:53:43Z,2023-08-21T09:40:40Z
+43,https://github.com/decentraland/mana,12685795,decentraland,Decentraland,518,0,2015-05-31T17:58:29Z,2023-05-17T17:52:36Z
+44,https://github.com/neo-project/neo,12685221,neo-project,The Neo Project,120,0,2015-05-31T16:46:26Z,2023-08-20T11:33:01Z
+45,https://github.com/thorchain,40639099,thorchain,THORChain,60,0,2018-06-27T16:17:58Z,2023-04-03T23:38:15Z
+46,https://github.com/kava-labs,36107286,Kava-Labs,Kava Labs,112,0,2018-02-03T15:03:09Z,2023-07-05T19:56:45Z
+47,https://github.com/bitcoin-abc,28255313,Bitcoin-ABC,Bitcoin ABC,53,0,2017-05-01T09:57:07Z,2023-08-14T11:41:36Z
+48,https://github.com/onflow,62387156,onflow,Flow,413,0,2020-03-19T13:24:19Z,2022-11-16T01:50:41Z
+49,https://github.com/rocket-pool/rocketpool,35884456,rocket-pool,Rocket Pool,153,0,2018-01-28T04:24:14Z,2021-04-22T01:36:48Z
+50,https://github.com/klaytn/klaytn,41137100,klaytn,Klaytn,136,0,2018-07-12T04:46:41Z,2023-08-21T11:48:54Z
+51,https://github.com/fraxfinance,56005256,FraxFinance,frax.finance,113,0,2019-09-30T22:30:00Z,2023-05-09T15:23:30Z
+52,https://github.com/iotaledger,20126597,iotaledger,IOTA,399,0,2016-06-24T10:55:18Z,2022-10-26T23:13:25Z
+53,https://github.com/zcash/zcash,16122764,zcash,Zcash,143,0,2015-12-02T18:16:22Z,2023-06-24T07:11:49Z
+54,https://github.com/casper-network/,79667787,casper-network,Casper Association ,156,0,2021-02-25T20:59:53Z,2023-05-18T12:25:28Z
+55,https://github.com/MystenLabs,88845815,MystenLabs,Mysten Labs,2532,0,2021-08-12T15:45:59Z,2023-06-23T22:20:36Z
+56,https://github.com/bittorrent,142253,bittorrent,BitTorrent Inc.,156,0,2009-10-20T18:03:13Z,2023-08-01T04:34:34Z
+57,https://github.com/curvefi/curve-contract,59866658,curvefi,Curve,444,0,2020-01-14T09:01:18Z,2023-02-04T23:32:25Z
+58,https://github.com/Conflux-Chain,46887720,Conflux-Chain,Conflux,182,0,2019-01-21T09:12:08Z,2023-08-24T11:51:23Z
+59,https://github.com/MinaProtocol/mina,39103922,MinaProtocol,,292,0,2018-05-08T21:29:56Z,2023-07-26T21:45:45Z
+60,https://github.com/gatechain,48748353,gatechain,GATE INFORMATION PTE. LTD.,20,0,2019-03-20T06:55:51Z,2023-06-19T07:19:25Z
+61,https://github.com/terra-money/core,38208150,terra-money,Terra,676,0,2018-04-09T08:58:26Z,2023-08-21T04:18:53Z
+62,https://github.com/trustwallet,32179889,trustwallet,Trust Wallet,1443,0,2017-09-21T21:41:01Z,2023-08-10T09:38:17Z
+63,https://github.com/dydxfoundation/,87126808,dydxfoundation,dYdX Foundation,65,0,2021-07-08T10:50:31Z,2022-09-21T13:49:19Z
+64,https://github.com/compound-finance/compound-protocol,32911405,compound-finance,Compound,232,0,2017-10-18T18:56:14Z,2021-02-12T20:33:51Z
+65,https://github.com/nexofinance/NEXO-Token/,36294192,nexofinance,NEXO,19,0,2018-02-09T08:34:55Z,2020-12-08T08:29:39Z
+66,https://github.com/gemini/dollar,8368139,gemini,Gemini,93,0,2014-08-05T22:42:28Z,2022-05-18T13:16:07Z
+67,https://github.com/flare-foundation/,93145214,flare-foundation,Flare Foundation,138,0,2021-10-25T15:18:21Z,2023-08-28T13:02:23Z
+68,https://github.com/AstarNetwork/Astar,76546898,AstarNetwork,Astar Network,223,0,2020-12-24T05:02:55Z,2022-11-06T07:01:40Z
+69,https://github.com/dashpay/dash,11511719,dashpay,Dash,77,0,2015-03-17T00:14:39Z,2023-04-28T11:32:42Z
+70,https://github.com/pancakeswap,71247426,pancakeswap,PancakeSwap,1249,0,2020-09-14T05:22:02Z,2023-09-06T06:53:07Z
+71,https://github.com/ArweaveTeam/arweave,31965957,ArweaveTeam,Arweave,161,0,2017-09-14T16:26:49Z,2023-04-24T11:01:11Z
+72,https://github.com/Zilliqa/Zilliqa,32560879,Zilliqa,Zilliqa,60,0,2017-10-06T03:47:07Z,2023-02-09T12:36:15Z
+73,https://github.com/oasisprotocol/oasis-core,52803776,oasisprotocol,Oasis Protocol Foundation,223,0,2019-07-11T22:35:51Z,2020-06-30T21:13:58Z
+74,https://github.com/brave-intl/bat-ledger,28767864,brave-intl,"Brave Software International, Inc.",36,0,2017-05-17T23:30:12Z,2023-06-30T16:57:15Z
+75,https://github.com/SafePalWallet,52519650,SafePalWallet,SafePal,33,0,2019-07-04T04:08:42Z,2023-05-15T09:47:26Z
+76,https://github.com/1inch,43341157,1inch,1inch Network,517,0,2018-09-17T11:52:17Z,2023-08-31T08:23:03Z
+77,https://github.com/sei-protocol,101956417,sei-protocol,,2660,0,2022-03-20T01:03:42Z,2023-06-12T19:09:08Z
+78,https://github.com/Chia-Network/chia-blockchain,34047804,Chia-Network,Chia Network,506,0,2017-11-28T01:43:47Z,2023-07-13T20:52:00Z
+79,https://github.com/loopring,29633125,Loopring,Loopring Protocol,132,0,2017-06-22T15:33:48Z,2021-10-13T10:25:12Z
+80,https://github.com/enjin/,1616840,enjin,Enjin,73,0,2012-04-05T21:24:13Z,2023-02-02T22:16:01Z
+81,https://github.com/helium/,6635330,helium,Helium,625,0,2014-02-10T03:38:50Z,2023-08-02T18:44:31Z
+82,https://github.com/qtumproject/qtum/,19503561,qtumproject,Qtum,66,0,2016-05-21T10:20:19Z,2023-05-16T05:12:19Z
+83,https://github.com/ensdomains,34167658,ensdomains,Ethereum Name Service (ENS),709,0,2017-12-01T16:53:12Z,2023-03-08T01:34:39Z
+84,https://github.com/NemProject,7942606,NemProject,NEM,24,0,2014-06-20T11:07:28Z,2022-05-10T19:49:56Z
+85,https://github.com/BTCGPU/BTCGPU,30379205,BTCGPU,BTCGPU,11,0,2017-07-23T00:12:27Z,2023-08-17T11:38:13Z
+86,https://github.com/singnet/,32847093,singnet,SingularityNET,182,0,2017-10-16T16:21:06Z,2022-08-29T18:04:12Z
+87,https://github.com/convex-eth/platform,79988478,convex-eth,,73,0,2021-03-03T14:48:18Z,2023-08-29T10:29:34Z
+88,https://github.com/DimensionDev/Maskbook,39396545,DimensionDev,Dimension,158,0,2018-05-18T04:34:00Z,2023-07-18T04:10:33Z
+89,https://github.com/celo-org/celo-monorepo/,37552875,celo-org,Celo,306,0,2018-03-19T18:01:06Z,2023-08-24T17:35:03Z
+90,https://github.com/decred/,16297194,decred,Decred,71,0,2015-12-14T23:44:51Z,2021-11-13T02:58:06Z
+91,https://github.com/Ankr-network,35610494,Ankr-network,Ankr,163,0,2018-01-19T19:09:12Z,2023-05-23T15:07:48Z
+92,https://github.com/RavenProject/Ravencoin,32651605,RavenProject,,43,0,2017-10-09T19:23:56Z,2018-11-05T16:11:25Z
+93,https://github.com/osmosis-labs/osmosis,79296913,osmosis-labs,,262,0,2021-02-19T04:03:58Z,2021-06-10T16:20:09Z
+94,https://github.com/oceanprotocol,31523682,oceanprotocol,Ocean Protocol,193,0,2017-08-31T22:48:50Z,2023-09-04T10:04:37Z
+95,https://github.com/yearn/iearn-finance,60162948,yearn,yearn,261,0,2020-01-22T00:39:49Z,2023-04-21T19:15:41Z
+96,https://github.com/livepeer,25355022,livepeer,Livepeer,179,0,2017-01-25T21:42:46Z,2023-05-08T18:26:16Z
+97,https://github.com/holochain/holochain-rust,29492745,holochain,Holochain,229,0,2017-06-16T20:40:03Z,2021-06-25T14:44:28Z
+98,https://github.com/balancer-labs,126697336,balancer-labs,Balancer Labs,18,0,2023-03-01T15:47:24Z,2023-03-02T16:49:02Z
+99,https://github.com/aelfProject,30065963,AElfProject,,41,0,2017-07-11T04:29:25Z,2023-08-22T11:45:58Z
+100,https://github.com/fetchai,40889903,fetchai,Fetch.AI,186,0,2018-07-06T11:22:52Z,2023-09-01T15:38:57Z
+101,https://github.com/wavesplatform/,18295288,wavesplatform,Waves Protocol,116,0,2016-04-05T21:24:52Z,2023-08-18T11:35:16Z
+102,https://github.com/golemfactory/golem,23193179,golemfactory,Golem Factory,140,0,2016-11-01T14:32:37Z,2023-06-19T11:09:34Z
+103,https://github.com/floki-inu,91611039,Floki-Inu,Floki,16,0,2021-09-29T12:56:39Z,2023-08-22T19:52:05Z
+104,https://github.com/icon-project,36242910,icon-project,ICON Foundation,52,0,2018-02-07T19:15:20Z,2022-12-04T04:24:58Z
+105,https://github.com/kusamanetwork,52316257,kusamanetwork,Kusama Network,26,0,2019-06-28T09:28:08Z,2020-09-04T14:01:40Z
+106,https://github.com/SiaFoundation,71667087,SiaFoundation,The Sia Foundation,103,0,2020-09-21T19:04:19Z,2022-03-10T22:44:38Z
+107,https://github.com/worldcoin,60940476,worldcoin,Worldcoin,991,0,2020-02-11T18:32:26Z,2023-07-05T18:48:24Z
+108,https://github.com/Solar-network,96810604,Solar-network,Solar,206,0,2021-12-29T05:44:22Z,2023-07-10T10:13:02Z
+109,https://github.com/openhive-network/hive,62291009,openhive-network,HIVE,46,0,2020-03-17T12:25:18Z,2023-08-30T11:41:04Z
+110,https://github.com/0xProject,24832717,0xProject,0x,345,0,2016-12-29T21:34:48Z,2023-08-29T07:12:58Z
+111,https://github.com/ethereumpow,110872374,ethereumpow,EthereumPoW (ETHW) Official,376,2,2022-08-09T01:23:59Z,2023-01-30T03:49:01Z
+112,https://github.com/ontio,36180490,ontio,Ontology,55,0,2018-02-06T03:21:10Z,2023-09-03T11:40:25Z
+113,https://github.com/bloxapp/ssv-web,33198961,bloxapp,Blox Staking,49,0,2017-10-29T13:37:22Z,2023-09-04T08:47:57Z
+114,https://github.com/PureStake/moonbeam,45081189,PureStake,,96,0,2018-11-15T21:22:22Z,2023-08-22T15:05:10Z
+115,https://github.com/bandprotocol,39086992,bandprotocol,Band Protocol,53,0,2018-05-08T10:58:45Z,2023-06-13T07:57:38Z
+116,https://github.com/bcnmy,50363773,bcnmy,Biconomy,102,0,2019-05-07T10:46:07Z,2023-08-07T11:59:53Z
+117,https://github.com/harmony-one,39147399,harmony-one,harmony-one,160,0,2018-05-10T04:53:25Z,2023-08-14T22:33:04Z
+118,https://github.com/worldwide-asset-exchange/,51464904,worldwide-asset-exchange,Worldwide Asset eXchange,57,0,2019-06-06T23:08:50Z,2023-03-30T01:47:42Z
+119,https://github.com/sushiswap/sushiswap,72222929,sushiswap,SushiSwap,405,0,2020-10-01T17:55:11Z,2023-03-19T07:11:49Z
+120,https://github.com/axelarnetwork,67522309,axelarnetwork,Axelar Network,200,0,2020-06-27T21:02:46Z,2023-09-07T19:29:50Z
+121,https://github.com/iotexproject/iotex-core,34317526,iotexproject,IoTeX Network,158,0,2017-12-06T19:01:50Z,2023-02-14T20:16:17Z
+122,https://github.com/TreasureProject/,90024146,TreasureProject,Treasure,75,0,2021-09-03T05:49:31Z,2023-08-24T14:55:41Z
+123,https://github.com/terra-project,85050024,terra-project,We  moved to https://github.com/terra-money,23,0,2021-05-30T05:35:01Z,2021-05-30T05:41:35Z
+124,https://github.com/kadena-io/chainweb-node,19830776,kadena-io,Kadena,181,0,2016-06-09T04:16:03Z,2023-09-04T11:06:46Z
+125,https://github.com/nervosnetwork,35361817,nervosnetwork,Nervos Network,240,0,2018-01-12T06:41:30Z,2023-07-23T07:10:40Z
+126,https://github.com/DigiByte-Core,42970526,DigiByte-Core,DigiByte Core,43,0,2018-09-04T13:51:35Z,2023-05-18T18:02:28Z
+127,https://github.com/daomaker,59827447,daomaker,daomaker,32,0,2020-01-13T11:22:50Z,2023-07-17T07:17:41Z
+128,https://github.com/mobilecoinfoundation/mobilecoin,73257032,mobilecoinfoundation,MobileCoin Foundation,51,0,2020-10-21T20:53:48Z,2023-08-01T07:17:03Z
+129,https://github.com/ribbon-finance,72386559,ribbon-finance,Ribbon Finance,90,0,2020-10-05T10:30:41Z,2023-06-06T01:31:06Z
+130,https://github.com/skalenetwork,49560738,skalenetwork,SKALE Network,123,0,2019-04-12T13:15:42Z,2022-10-26T22:18:09Z
+131,https://github.com/runonflux,78997786,RunOnFlux,Run On Flux,190,0,2021-02-13T06:23:18Z,2023-08-06T06:06:25Z
+132,https://github.com/UMAprotocol,40549210,UMAprotocol,UMA,71,0,2018-06-24T22:03:15Z,2023-09-08T19:14:24Z
+133,https://github.com/HorizenOfficial,29291571,HorizenOfficial,Horizen - Zen Blockchain Foundation,137,0,2017-06-08T22:56:55Z,2023-08-21T07:12:33Z
+134,https://github.com/reserve-protocol,34616001,reserve-protocol,Reserve,63,0,2017-12-17T05:19:51Z,2023-09-01T03:42:41Z
+135,https://github.com/tomochain/,30099742,tomochain,TomoChain,58,0,2017-07-12T02:45:27Z,2020-05-06T09:45:10Z
+136,https://github.com/tonlabs/ever-sdk,39875327,tonlabs,EverX Labs,94,0,2018-06-03T09:25:07Z,2023-08-18T07:13:49Z
+137,https://github.com/LiskHQ/lisk-sdk,16600915,LiskHQ,Lisk,69,0,2016-01-07T22:31:36Z,2023-07-31T10:58:31Z
+138,https://github.com/nanocurrency,34106716,nanocurrency,Nano,104,0,2017-11-29T19:13:53Z,2022-07-25T11:26:21Z
+139,https://github.com/storj/storj,6308081,storj,Storj,193,0,2014-01-03T03:04:38Z,2023-08-23T02:03:00Z
+140,https://github.com/Alchemy-GPS,56988051,Alchemy-GPS,Alchemy GPS,19,0,2019-10-25T02:56:05Z,2021-08-17T07:49:55Z
+141,https://github.com/kybernetwork,28812853,KyberNetwork,Kyber Network,153,0,2017-05-19T17:51:12Z,2023-08-22T07:19:36Z
+142,https://github.com/cartesi,37696266,cartesi,Cartesi,100,0,2018-03-23T11:19:40Z,2023-07-17T11:43:19Z
+143,https://github.com/celer-network,32370443,celer-network,Celer Network,161,0,2017-09-28T17:51:40Z,2023-08-28T07:16:22Z
+144,https://github.com/playdapp,54023228,playdapp,PlayDapp,3,0,2019-08-12T09:29:07Z,2022-11-02T07:14:25Z
+145,https://github.com/status-im,11767950,status-im,Status,518,0,2015-04-02T08:01:48Z,2023-08-14T11:17:58Z
+146,https://github.com/amptoken,58496395,amptoken,Amp,23,0,2019-12-04T02:16:34Z,2020-08-06T21:03:56Z
+147,https://github.com/threshold-network,87499389,threshold-network,,46,0,2021-07-15T19:59:49Z,2021-11-11T22:59:49Z
